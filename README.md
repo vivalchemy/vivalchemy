@@ -1,5 +1,9 @@
 # Hi there! 👋 I'm Vivian Ludrick
 
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vivalchemy&show_icons=true&theme=transparent"/>
+
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivalchemy&layout=compact&theme=transparent"/>
+
 Passionate about web development, I'm currently immersing myself in the worlds of Tailwind CSS and TypeScript. This space serves as a playground for learning and experimenting.
 
 ## 🔭 I’m currently working on
