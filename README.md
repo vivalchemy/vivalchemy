@@ -70,5 +70,5 @@ I'm always open to interesting conversations and collaboration opportunities!
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=vivalchemy&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
   
-  💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+  💡 *"Code is like humor. When you have to ... Arch Btw Neovim Btw 😜 ... explain it, it's bad."* – Cory House
 </div>
